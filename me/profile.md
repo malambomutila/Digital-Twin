@@ -11,7 +11,7 @@
 
 ## Professional Summary
 
-AI/ML Engineer and data engineering professional with eight years of experience developing machine learning models,  data pipelines, analytics platforms, data warehouses, and decision-support systems in public health and government-aligned environments in Zambia.
+AI/ML Engineer and data engineering professional with eight years of experience developing machine learning models,  data pipelines, analytics platforms, data warehouses, and decision-support systems in public health, NGO and government-aligned environments in Zambia.
 
 Core experience includes:
 
